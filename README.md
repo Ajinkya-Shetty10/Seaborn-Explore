@@ -1,4 +1,4 @@
-#Penguins Dataset Visualization with Seaborn
+##Penguins Dataset Visualization with Seaborn
 
 This project explores various data visualizations using the Seaborn library, focusing on the inbuilt Penguins dataset. The dataset contains information about penguin species, island location, bill dimensions, flipper length, and body mass.
 
