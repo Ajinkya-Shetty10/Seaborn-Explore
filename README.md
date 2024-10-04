@@ -5,7 +5,7 @@ This project explores various data visualizations using the Seaborn library, foc
 ## **Overview**
 In this mini assignment, I explored different types of plots to better understand the dataset. The visualizations help to identify trends, patterns, and correlations within the data.
 
-**Visualizations Covered:**
+### **Visualizations Covered:**
 
 **Scatter Plots**: To show relationships between two continuous variables.
 
