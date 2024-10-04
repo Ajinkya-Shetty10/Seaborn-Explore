@@ -1,17 +1,26 @@
-##Penguins Dataset Visualization with Seaborn
+**Penguins Dataset Visualization with Seaborn**
 
 This project explores various data visualizations using the Seaborn library, focusing on the inbuilt Penguins dataset. The dataset contains information about penguin species, island location, bill dimensions, flipper length, and body mass.
 
-Overview
+**Overview**
 In this mini assignment, I explored different types of plots to better understand the dataset. The visualizations help to identify trends, patterns, and correlations within the data.
 
-Visualizations Covered:
-Scatter Plots: To show relationships between two continuous variables.
-Pair Plots: For a quick view of relationships between all pairs of features.
-Histograms & KDE Plots: To display the distribution of individual variables.
-Box Plots & Violin Plots: For visualizing the distribution and comparing across different categories.
-Heatmaps: To explore correlations between numerical features.
-Tools & Libraries:
+**Visualizations Covered:**
+
+**Scatter Plots**: To show relationships between two continuous variables.
+
+**Pair Plots:** For a quick view of relationships between all pairs of features.
+
+**Histograms & KDE Plots:** To display the distribution of individual variables.
+
+**Box Plots & Violin Plots:** For visualizing the distribution and comparing across different categories.
+
+**Heatmaps:** To explore correlations between numerical features.
+
+
+
+
+**Tools & Libraries:**
 Python 3.x
 Seaborn
 Matplotlib
