@@ -2,7 +2,7 @@
 
 This project explores various data visualizations using the Seaborn library, focusing on the inbuilt Penguins dataset. The dataset contains information about penguin species, island location, bill dimensions, flipper length, and body mass.
 
-**Overview**
+## **Overview**
 In this mini assignment, I explored different types of plots to better understand the dataset. The visualizations help to identify trends, patterns, and correlations within the data.
 
 **Visualizations Covered:**
